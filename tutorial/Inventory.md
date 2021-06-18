@@ -20,7 +20,7 @@ Other consumables, for example Hash Processors and AI Cores can be used to perfo
 
 ## Functions in your Inventory
 
-By clicking the icons above your inventory list, you can filter out specific inventory. You will have 50 space, equipping gears with extra pocket status will give you more inventory space. To get rid of gears and upgrade modules, you can click on the **scrap** button. Every item scrapped will give you a tech scrap. To get rid of other items, you can click on the **destroy** button. Destroyed items will not give you anything in return so be cautious when performing this action.  
+By clicking the icons above your inventory list, you can filter out specific inventory. You will have 50 space, equipping gears with extra pocket status will give you more inventory space. To get rid of gears and upgrade modules, you can click on the **scrap** button. Every item scrapped will give you a tech scrap. To get rid of other items, you can click on the **destroy** button. Destroyed items will not give you anything in return so be cautious when performing this action. To lock an item, you can click the **lock** button. Locked items will not be scrapped if multi-selected.  
 
 ## Item Inbox
 

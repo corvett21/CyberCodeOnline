@@ -522,7 +522,12 @@
 		"wanted hacker",
 		"wanted assasin",
 		"wanted gangster",
-		"unlicensed bounty hunter"
+		"unlicensed bounty hunter",
+		"Rogue Dishwasher",
+		"Smart Thermostat",
+		"Forgotten Refidgerator",
+		"Ressurectionist",
+		"Cult Recruiter",
 	],
 	"goodGuys": [
 		"tomboy",
@@ -621,7 +626,12 @@
 		"licensed hacker",
 		"private detective",
 		"Stray Nanobot",
-		"Friendly sentient toaster"
+		"Friendly sentient toaster",
+		"lost electrician",
+		"underpaid contractor",
+		"after-hours tutor",
+		"tired babysitter",
+		"talking dachsund"
 	],
 	"bosses": [
 		"4ng3l of Death",
@@ -968,7 +978,13 @@
 		"Net Titan",
 		"Wanted Gang Boss",
 		"Worshipper of Cthulu",
-		"Odie, Kneecap Decimator"
+		"Odie, Kneecap Decimator",
+		"The Wozard of Iz",
+		"King of the Rats",
+		"Large Albatross",
+		"Half-Dead Dinosaur",
+		"Shaq",
+		"The Moon"
 	],
 	"greetings": [
 		"Hey",
@@ -1022,7 +1038,8 @@
 		"hey kid",
 		"OwO what's this?",
 		"Yo, ese",
-		"*stares into the depth of your soul*"
+		"*stares into the depth of your soul*",
+		"Hola!"
 	],
 	"needHelp": [
 		"Could you help?",
@@ -1096,8 +1113,10 @@
 	],
 	"buildingPrefix": [
 		"Abandoned",
+		"Air-Conditioned",
 		"Avalanche-damaged",
 		"Aurora-cloaked",
+		"Baroque",
 		"Big",
 		"Black ice-covered",
 		"Boarded-up",
@@ -1158,6 +1177,7 @@
 		"Imposing",
 		"Infested",
 		"Inhospitable",
+		"Invisible",
 		"Low-rise",
 		"Lusterbright",
 		"Luxurious",
@@ -1171,6 +1191,7 @@
 		"Neglected",
 		"Neon colored",
 		"Old",
+		"Once-Grand",
 		"Opulent",
 		"Overgrown",
 		"Pebble-dashed",
@@ -1187,6 +1208,7 @@
 		"Round",
 		"Ruined",
 		"Rustic",
+		"Rust-Covered",
 		"Sacred",
 		"Seaside",
 		"Secular",
@@ -1442,7 +1464,11 @@
 		"Morgue",
 		"Space Dungeon",
 		"Space Station",
-		"Dyson Sphere"
+		"Dyson Sphere",
+		"Apartment Complex",
+		"Playground",
+		"Statue Garden"
+		
 	],
 	"helmet": [
 		"helmet",
@@ -1547,7 +1573,11 @@
 		"salad bowl",
 		"Earbuds",
 		"void mask",
-		"void helmet"
+		"void helmet",
+		"toupee",
+		"colander",
+		"cat ears",
+		"woven headband"
 	],
 	"upperArmor": [
 		"shirt",
@@ -1707,7 +1737,12 @@
 		"hockey jersey",
 		"schoolgirl uniform",
 		"void suit",
-		"void armor"
+		"void armor",
+		"clip-on tie",
+		"bro-tank",
+		"suit jacket",
+		"LED covered polo",
+		"life-vest"
 	],
 	"lowerArmor": [
 		"pants",
@@ -1808,7 +1843,12 @@
 		"black-laced lingerie",
 		"camouflage underwear",
 		"void pants",
-		"void"
+		"void",
+		"skin-tight jeans",
+		"button-fly jeans",
+		"bell bottoms",
+		"worn-out capris",
+		"jeggings"
 	],
 	"boots": [
 		"shoes",
@@ -1892,7 +1932,14 @@
 		"Sepatu",
 		"Yeezy's",
 		"classy heels",
-		"void heels"
+		"void heels",
+		"clown shoes",
+		"toe socks",
+		"light-up sneakers",
+		"spray-on nano-shoes",
+		"noise-cancelling socks",
+		"mismatched socks",
+		"argyle socks"
 	],
 	"weaponSmithDefault": [
 		"You will find the best gear here, trust me.",
@@ -2070,5 +2117,11 @@
 		"You look like a guy who knows his style! Tell you what, I'll give you style for a price.",
 		"Beauty tip #1: Color is half of what makes the world so amazing!"
 	],
-	"backpackDefault": ["I can get anything you could think of for you"]
+	"backpackDefault": [
+		"I can get anything you could think of for you",
+		"Running out of space? You've come to the right place!",
+		"One-Stop Shop for all your carrying needs!"
+		"Welcome, how may I help you today?"
+	
+	]
 }
